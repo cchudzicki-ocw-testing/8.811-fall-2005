@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The projects section contains list of possible topics for final term
+  paper. It also contains details on what should be included in this final written
+  term paper. It also contains a sample final project.
 draft: false
 learning_resource_types:
 - Projects
